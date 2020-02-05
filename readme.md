@@ -31,4 +31,4 @@ $ npm start
 ```
 
 
-Congratz!! Now check on browser http://localhost:300, to view the API Lists doc that you can play around!
+Congratz!! Now check on browser http://localhost:3000, to view the API Lists doc that you can play around!
